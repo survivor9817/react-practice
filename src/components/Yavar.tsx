@@ -8,7 +8,7 @@ const Yavar = () => {
               <div className="welcome-massage">
                 <img
                   className="yavar-character float-animation"
-                  src="../imgs/darsyavar0-nobg.png"
+                  src="/react-practice/public/imgs/darsyavar0-nobg.png"
                   alt=""
                 />
                 <div className="greeting-message">
